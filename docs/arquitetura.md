@@ -1,4 +1,5 @@
 Arquitetura
+
 As funções relacionadas ao gerenciamento das casas do jogo da velha ficarão no módulo jogovelha.py.
 
 O estado de cada casa do jogo será representada por uma string: "." para casa vazia; "X" para casa ocupada pelo 1º jogador; "O" para a casa ocupada pelo 2º jogador.
